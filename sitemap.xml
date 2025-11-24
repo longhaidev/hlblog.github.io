@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://longhaidev.github.io/hlblog.github.io/</loc>
     <lastmod>2025-11-24T09:35:29+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://longhaidev.github.io/hlblog.github.io/posts/</loc>
     <lastmod>2025-11-24T09:35:29+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
+    <loc>https://longhaidev.github.io/hlblog.github.io/posts/test/</loc>
     <lastmod>2025-11-24T09:35:29+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/testing_post/</loc>
+    <loc>https://longhaidev.github.io/hlblog.github.io/posts/testing_post/</loc>
     <lastmod>2025-11-23T18:36:29+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://longhaidev.github.io/hlblog.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://longhaidev.github.io/hlblog.github.io/tags/</loc>
   </url>
 </urlset>
